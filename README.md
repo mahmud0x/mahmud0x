@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello, fellow cyber enthusiasts! I'm MAHMUDUZZAMAN KAMOL, a passionate cybersecurity professional with a strong interest in securing digital systems and protecting sensitive data. Currently, I'm working as a SOC Intern at SSL Wireless, where I actively contribute to maintaining a secure environment.
+Hello, fellow cyber enthusiasts! I'm MAHMUDUZZAMAN KAMOL, a passionate cybersecurity professional with a strong interest in securing digital systems and protecting sensitive data. Currently, I'm working as a Associate, SOC at SSL Wireless, where I actively contribute to maintaining a secure environment.
 
 ## Experience
 
