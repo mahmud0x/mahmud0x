@@ -7,14 +7,14 @@ Hello, fellow cyber enthusiasts! I'm MAHMUDUZZAMAN KAMOL, a passionate cybersecu
 
 ## Experience
 
-### Associate, SOC at SSL Wireless (September 2022 - Present)
+### Associate, SOC at SSL Wireless (September 2023 - Present)
 
 - 🕵️‍♂️ Actively involved in Red Teaming exercises to simulate real-world attacks and identify vulnerabilities in the organization's systems.
 - 🛡️ Conducting vulnerability assessments and penetration testing to evaluate the security posture of critical assets and networks.
 - 📊 Analyzing security incidents and providing actionable recommendations for mitigation and improvement.
 - 📝 Collaborating with the team to develop comprehensive security reports and documentation for stakeholders.
   
-### SOC Intern at SSL Wireless (June 2022 - August 2022)
+### SOC Intern at SSL Wireless (June 2023 - August 2023)
 
 - 🕵️‍♂️ Actively involved in Red Teaming exercises to simulate real-world attacks and identify vulnerabilities in the organization's systems.
 - 🛡️ Conducting vulnerability assessments and penetration testing to evaluate the security posture of critical assets and networks.
