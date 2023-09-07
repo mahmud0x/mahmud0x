@@ -1,5 +1,5 @@
 # ** MAHMUDUZZAMAN KAMOL **
-## 👨‍💻 Cybersecurity Enthusiast | SOC Intern at SSL Wireless
+## 👨‍💻 Cybersecurity Enthusiast | Associate, SOC at SSL Wireless
 
 ## About Me
 
