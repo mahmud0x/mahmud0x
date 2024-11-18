@@ -1,39 +1,42 @@
-# ** MAHMUDUZZAMAN KAMOL **
-## 👨‍💻 Cybersecurity Enthusiast | Associate, SOC at SSL Wireless
+# **MD MAHMUDUZZAMAN KAMOL**  
+## 👨‍💻 Cybersecurity Engineer | Penetration Tester | Aspiring Ph.D. Researcher  
 
-## About Me
+## About Me  
+Hi, I'm MD MAHMUDUZZAMAN KAMOL, a cybersecurity engineer passionate about safeguarding digital systems and innovating in the field of cybersecurity. With extensive experience in penetration testing, incident response, and vulnerability management, I continuously strive to learn and contribute to cutting-edge security solutions. My aspiration is to pursue a Ph.D. in cybersecurity, focusing on impactful research to advance both theoretical knowledge and practical applications.
 
-Hello, fellow cyber enthusiasts! I'm MAHMUDUZZAMAN KAMOL, a passionate cybersecurity professional with a strong interest in securing digital systems and protecting sensitive data. Currently, I'm working as a Associate, SOC at SSL Wireless, where I actively contribute to maintaining a secure environment.
+## Experience  
 
-## Experience
+### Cyber Security Engineer  
+**Dutch Bangla Bank PLC** (August 2024 – Present)  
+- Conducting penetration testing for APIs, web, and mobile applications.  
+- Maintaining and optimizing enterprise security solutions like SIEM, XDR, and NBA.  
+- Providing mentorship and support to teams for strengthening organizational security.  
 
-### Associate, SOC at SSL Wireless (September 2023 - Present)
+### Junior Cyber Security Engineer  
+**TechnoNext Ltd. (US-Bangla Group)** (December 2023 – July 2024)  
+- Led penetration testing for applications across industries including airlines, e-commerce, and fintech.  
+- Implemented robust security monitoring with tools like Wazuh, Graylog, and SELKS.  
 
-- 🕵️‍♂️ Actively involved in Red Teaming exercises to simulate real-world attacks and identify vulnerabilities in the organization's systems.
-- 🛡️ Conducting vulnerability assessments and penetration testing to evaluate the security posture of critical assets and networks.
-- 📊 Analyzing security incidents and providing actionable recommendations for mitigation and improvement.
-- 📝 Collaborating with the team to develop comprehensive security reports and documentation for stakeholders.
-  
-### SOC Intern at SSL Wireless (June 2023 - August 2023)
+### Associate, Security Operations Center (SOC)  
+**SSL Wireless** (September 2023 – November 2023)  
+- Discovered over 30 critical vulnerabilities across multiple systems.  
+- Restored servers compromised with advanced malware and maintained SIEM and EDR solutions.  
 
-- 🕵️‍♂️ Actively involved in Red Teaming exercises to simulate real-world attacks and identify vulnerabilities in the organization's systems.
-- 🛡️ Conducting vulnerability assessments and penetration testing to evaluate the security posture of critical assets and networks.
-- 📊 Analyzing security incidents and providing actionable recommendations for mitigation and improvement.
-- 📝 Collaborating with the team to develop comprehensive security reports and documentation for stakeholders.
+## Skills  
 
-## Skills
+- **Technical Expertise**: Penetration Testing, Incident Response, Vulnerability Management  
+- **Tools**: Burp Suite Pro, Nessus, Metasploit, Nuclei, MobSF  
+- **Programming**: Python, PHP, SQL, Bash, React.js, Laravel  
+- **Defensive Security**: NBA, Cortex XDR, Graylog, Wazuh, Snyk  
+- **Frameworks**: PyTorch, Scikit-learn, Docker  
 
-- 💂 **Security Operations**
-- 🚨 **Incident Response**
-- 🔒 **Vulnerability Assessment**
-- 🔓 **Penetration Testing**
-- 🌐 **Network Security**
-- 🔐 **Web Application Security**
+## Certifications  
 
-## Certifications
+- **CyberOps Associate**  
 
-- ✅ **CyberOPs Associate**
+## Contact  
 
-## Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmud0x/).
+Feel free to connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/mahmud0x)  
+- [GitHub](https://github.com/mahmud0x)  
+- [Personal Website](https://mahmud0x.github.io)  
