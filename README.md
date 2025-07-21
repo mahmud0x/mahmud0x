@@ -1,13 +1,12 @@
 # **MD MAHMUDUZZAMAN KAMOL**  
-## 👨‍💻 Cybersecurity Engineer | Penetration Tester | Aspiring Ph.D. Researcher  
+## 👨‍💻 Ph.D. Student | Cybersecurity Engineer | Penetration Tester
 
 ## About Me  
-Hi, I'm MD MAHMUDUZZAMAN KAMOL, a cybersecurity engineer passionate about safeguarding digital systems and innovating in the field of cybersecurity. With extensive experience in penetration testing, incident response, and vulnerability management, I continuously strive to learn and contribute to cutting-edge security solutions. My aspiration is to pursue a Ph.D. in cybersecurity, focusing on impactful research to advance both theoretical knowledge and practical applications.
-
+Hi, I'm MD MAHMUDUZZAMAN KAMOL, a cybersecurity engineer passionate about safeguarding digital systems and innovating in the field of cybersecurity. With extensive experience in penetration testing, incident response, and vulnerability management, I continuously strive to learn and contribute to cutting-edge security solutions. I am now pursuing a Ph.D. in Computer Science at the University of Texas at El Paso (UTEP) under the supervision of Dr Mohammad Saidur Rahman. 
 ## Experience  
 
 ### Cyber Security Engineer  
-**Dutch Bangla Bank PLC** (August 2024 – Present)  
+**Dutch Bangla Bank PLC** (August 2024 – July 2025)  
 - Conducting penetration testing for APIs, web, and mobile applications.  
 - Maintaining and optimizing enterprise security solutions like SIEM, XDR, and NBA.  
 - Providing mentorship and support to teams for strengthening organizational security.  
